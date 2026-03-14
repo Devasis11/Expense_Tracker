@@ -30,3 +30,8 @@ The goal of this project is to provide a clean and user-friendly interface that 
 - Monthly and weekly expense reports
 - Export expense data
 - Budget limit notifications
+
+## Download APK
+Download the latest version of the app from the release page:
+
+[Download APK](https://github.com/Devasis11/Expense_Tracker/releases/tag/v1.1)
